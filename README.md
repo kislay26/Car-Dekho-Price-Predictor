@@ -33,6 +33,6 @@ To determine the price of used cars.
 
 ## Task 6: Train the model using Linear Regression
 
-## Task 7: Check r2 score
+## Task 7: Check r2 score on Test and Train set
 
 ## Task 8: Prediction
